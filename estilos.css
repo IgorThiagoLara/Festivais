@@ -4,18 +4,7 @@ body {
     color: #666;
     line-height: 2;
     text-align: justify;
-}
-
-.background_top {
-    background-image: linear-gradient(deepskyblue, powderblue);
-}
-
-.background_mid {
-    background-color: powderblue;
-}
-
-.background_under {
-    background-image: linear-gradient(powderblue, deepskyblue);
+    background-image: linear-gradient(khaki, lemonchiffon, navajowhite);
 }
 
 h1  {
