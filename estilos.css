@@ -4,11 +4,7 @@ body {
     color: #666;
     line-height: 2;
     text-align: justify;
-    background-image: linear-gradient(khaki, lemonchiffon, navajowhite);
     margin: 0;
-}
-header{
-    background-color:aqua;
 }
 
 .logo {
@@ -25,27 +21,7 @@ header{
     font-family: Verdana, sans-serif; 
     font-size: 30px;
     margin: 0 0 0 10px;
-}
-
-.navegacao {
-    background-color: cadetblue;
-    padding: 10px 0;
-    text-align:center;
-}
-
-.navegacao .navegacao_lista {
-    display: inline-block;
-}
-
-.navegacao .navegacao_lista a {
-    display: inline-block;
-    color: greenyellow;
-    text-decoration: none;
-    padding: 15px;
-}
-
-.navegacao .navegacao_lista a:hover {
-    color: darkred;
+    text-align: center;
 }
 
 .paragrafo_inicio {
@@ -92,7 +68,6 @@ td {
 
 .rodape {
     text-align: center;
-    background-color: aqua;
     margin: 0;
     padding-top: 50px;
 }
